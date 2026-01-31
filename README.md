@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @nick-boto
+- 👋 Hi, I’m @465
 - 👀 I’m interested in game design and production
 - 🌱 I’m currently learning how to go outside
 - 💞️ I’m looking to collaborate on... on... uhh...
-- 📫 How to reach me: ¯\\\_(ツ)_/¯
+- 📫 How to reach me: open an issue somewhere
 - 😄 Pronouns: Whatever is fine
-- ⚡ Fun fact: I got my Operator Certification!
+- ⚡ Fun fact: I got my Operator Qualifictation!
 
 <!---
 nick-boto/nick-boto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
